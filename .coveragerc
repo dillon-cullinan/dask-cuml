@@ -1,0 +1,4 @@
+# Configuration file for Python coverage tests
+[run]
+include = dask_cuml/*
+omit = dask_cuml/tests/*
